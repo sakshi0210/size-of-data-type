@@ -1,4 +1,4 @@
-# size
+# size of data type.
 #include<iostream>
 using namespace std;
 int main()
